@@ -57,7 +57,7 @@ def main():
     
     player_vel = 5
     
-    ship = Ship(300, 650)
+    ship = Player(300, 650)
     
     clock = pygame.time.Clock()
     
